@@ -1,0 +1,4 @@
+D:\Project(.Net)\Trial Samples\LiveCartBackOffice\LiveCartBackOffice\bin\LiveCartBackOffice.dll
+D:\Project(.Net)\Trial Samples\LiveCartBackOffice\LiveCartBackOffice\bin\LiveCartBackOffice.pdb
+D:\Project(.Net)\Trial Samples\LiveCartBackOffice\LiveCartBackOffice\obj\Debug\LiveCartBackOffice.dll
+D:\Project(.Net)\Trial Samples\LiveCartBackOffice\LiveCartBackOffice\obj\Debug\LiveCartBackOffice.pdb
